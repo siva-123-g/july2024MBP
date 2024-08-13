@@ -7,7 +7,7 @@ String version=resource.getString("version");%>
 <html>
 <body>
 <h2>War file is going to Deploy   into amazon EC2  instance using github 
-"Successfully for the first project jenkins by using mbp pipeline"
+"Successfully for the first project july jenkins by using mbp pipeline"
 </h2>
 <h3>Will start the Mbp concept</h3>
   </body>
